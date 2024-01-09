@@ -1,7 +1,7 @@
 <h1 align="center">🏆 Desafio de projeto - Detona Ralph</h1>
 
-<h1 align="center">🏆 Link para o Jogo - Detona Ralph</h1>
-https://detona-ralf.vercel.app/
+<h1 align="center">🏆 Link para o Jogo - Detona Ralph https://detona-ralf.vercel.app/ </h1>
+
 
 
 <p>  
